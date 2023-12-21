@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/first-portfolio/static/css/main.c2d1a3cf.css",
+    "main.js": "/first-portfolio/static/js/main.9aabcc53.js",
+    "static/js/787.54c84798.chunk.js": "/first-portfolio/static/js/787.54c84798.chunk.js",
+    "static/media/me.jpg": "/first-portfolio/static/media/me.97dfc916195792a05805.jpg",
+    "static/media/CompBg.png": "/first-portfolio/static/media/CompBg.c00dbe970b31f9e593c0.png",
+    "static/media/chrome.png": "/first-portfolio/static/media/chrome.15d92d2dc71585afc77e.png",
+    "static/media/flix.png": "/first-portfolio/static/media/flix.173dd8c3519977ac4fc4.png",
+    "static/media/retexter.png": "/first-portfolio/static/media/retexter.337d25bc8393e9fc9c6c.png",
+    "static/media/ksteblogo.jpg": "/first-portfolio/static/media/ksteblogo.abe4f60d01a642d8f099.jpg",
+    "static/media/uduslogo.jpg": "/first-portfolio/static/media/uduslogo.17916f7c7f0496816aec.jpg",
+    "index.html": "/first-portfolio/index.html",
+    "main.c2d1a3cf.css.map": "/first-portfolio/static/css/main.c2d1a3cf.css.map",
+    "main.9aabcc53.js.map": "/first-portfolio/static/js/main.9aabcc53.js.map",
+    "787.54c84798.chunk.js.map": "/first-portfolio/static/js/787.54c84798.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2d1a3cf.css",
+    "static/js/main.9aabcc53.js"
+  ]
+}
